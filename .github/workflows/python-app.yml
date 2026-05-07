@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit: Production-grade ASR benchmarking pipeline"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/asr-benchmark-india.git
+git push -u origin main
